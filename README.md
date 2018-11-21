@@ -1,4 +1,4 @@
-# pulse_sensor
+# Pulse_sensor Project
 Pulsesensor project with an arduino, an accelerometer and and the Nodemcu esp8266
 
 This project is done with some already existing code and some parts the membres added. 
